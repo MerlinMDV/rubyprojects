@@ -1,2 +1,2 @@
-# rubyprojects.github.io
+# rubyprojects
 Ruby project storage
